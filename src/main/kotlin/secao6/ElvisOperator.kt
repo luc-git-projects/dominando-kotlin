@@ -10,6 +10,6 @@ fun main(){
     }
     println(value2)
 
-    val value3 = value ?: 0
+    val value3 = value ?: 7
     println(value3)
 }

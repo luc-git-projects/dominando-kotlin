@@ -1,7 +1,7 @@
 package secao6
 
 fun main(){
-    val s1: String? = "abcde"
+    val s1: String? = null
 
     if(s1 != null){
         val s2 = s1.uppercase()
