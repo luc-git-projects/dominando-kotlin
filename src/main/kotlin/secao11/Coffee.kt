@@ -6,4 +6,6 @@ class Coffee: Drink() {
         super.prepare()
         println("Prepare COFFEE")
     }
+
+
 }
